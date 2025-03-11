@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gst_calculator/static/css/main.ca2b208a.css",
+    "main.js": "/gst_calculator/static/js/main.1e946afc.js",
+    "static/js/453.859d73f0.chunk.js": "/gst_calculator/static/js/453.859d73f0.chunk.js",
+    "index.html": "/gst_calculator/index.html",
+    "main.ca2b208a.css.map": "/gst_calculator/static/css/main.ca2b208a.css.map",
+    "main.1e946afc.js.map": "/gst_calculator/static/js/main.1e946afc.js.map",
+    "453.859d73f0.chunk.js.map": "/gst_calculator/static/js/453.859d73f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca2b208a.css",
+    "static/js/main.1e946afc.js"
+  ]
+}
